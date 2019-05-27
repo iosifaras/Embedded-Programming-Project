@@ -5,7 +5,7 @@ Project about measuring Temperature and humidity using STM3210C board connected 
 
 The code is everything that the project needed to run.
 
-**[Iosif:](https://www.github.com/iosifaras)**
+**[Iosif:](https://www.github.com/joskark)**
 
 My contribution in this is the implementation of the user interface (Screen-functions.c, LCD.c, MenuScreens.c).
 
